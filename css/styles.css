@@ -1,0 +1,20 @@
+.home_page_photo {
+    width: 200px;
+    height: 125px !important;
+
+
+}
+
+.picture {
+    width: 900px;
+    height: 300px;
+}
+
+.footer {
+    text-align: center;
+}
+
+.pager .active {
+    background-color: #000;
+    color: #fff;
+}
